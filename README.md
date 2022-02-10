@@ -10,7 +10,7 @@
 
 ## Screenshots:
 
-![screenshot](./src/img/screenshot.png)
+![screenshot](./src/assets/screenshot.png)
 
 ## Built With
 
