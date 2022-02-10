@@ -10,7 +10,7 @@
 
 ## Screenshots:
 
-![screenshot](./src/img/screenshot.png)
+![screenshot](./src/assets/screenshot.png)
 
 ## Built With
 
@@ -28,6 +28,9 @@
 
 - Set up a React app.
 - Use React documentation.
+- Use React components.
+- Use React props.
+- Use React state.
 
 ## Live Demo
 
@@ -42,6 +45,25 @@
 ### Prerequisites
   - Node
   - npm
+
+### Setup
+
+- Clone the repository with the command:
+
+<code>
+$ git clone https://github.com/andres-condezo/math-magicians.git
+</code>
+
+---
+
+
+- To install the dependencies run: 
+
+<code>
+$ npm Install
+</code>
+
+---
 
 ## Available Scripts
 
@@ -97,7 +119,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Icons from fontAwesome.
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## 📝 License
