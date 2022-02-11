@@ -9,6 +9,10 @@
 
 ## Screenshots:
 
+- mobile version
+![screenshot](./src/assets/screenshot-mobile.png)
+
+- Desktop version
 ![screenshot](./src/assets/screenshot.png)
 
 ## Built With
