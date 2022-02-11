@@ -10,9 +10,11 @@
 ## Screenshots:
 
 - mobile version
+
 ![screenshot](./src/assets/screenshot-mobile.png)
 
 - Desktop version
+
 ![screenshot](./src/assets/screenshot.png)
 
 ## Built With
@@ -57,6 +59,7 @@
 - Clone the repository with the command:
 
 <code>$ git clone https://github.com/andres-condezo/math-magicians.git</code>
+
 <code>$ cd math-magicians</code>
 
 ---
