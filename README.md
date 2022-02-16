@@ -15,7 +15,7 @@
 
 - Desktop version
 
-![screenshot](./src/assets/screenshot.png)
+![screenshot](./src/assets/screenshot-desktop.png)
 
 ## Built With
 
