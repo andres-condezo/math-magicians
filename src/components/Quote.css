@@ -1,0 +1,19 @@
+.quote-container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.8rem;
+  margin-top: 4rem;
+  background-color: orange;
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.quote-container p {
+  text-align: center;
+  font-style: italic;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}

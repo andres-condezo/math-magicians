@@ -9,12 +9,17 @@ html {
   box-sizing: border-box;
   scroll-behavior: smooth;
   font-family: sans-serif;
+  height: 100vh;
 }
 
 body {
+  display: flex;
+  flex-direction: column;
+  background-color: grey;
+}
+
+.root {
   width: 100vw;
-  height: 100vh;
-  background-color: #eee;
-  display: grid;
-  place-content: center;
+  height: 100%;
+  overflow-x: hidden;
 }
