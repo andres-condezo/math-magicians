@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/math-magicians/static/css/main.8ebdce45.css",
-    "main.js": "/math-magicians/static/js/main.7823c831.js",
+    "main.js": "/math-magicians/static/js/main.1fac89dc.js",
     "static/js/787.d4ded463.chunk.js": "/math-magicians/static/js/787.d4ded463.chunk.js",
     "index.html": "/math-magicians/index.html",
     "main.8ebdce45.css.map": "/math-magicians/static/css/main.8ebdce45.css.map",
-    "main.7823c831.js.map": "/math-magicians/static/js/main.7823c831.js.map",
+    "main.1fac89dc.js.map": "/math-magicians/static/js/main.1fac89dc.js.map",
     "787.d4ded463.chunk.js.map": "/math-magicians/static/js/787.d4ded463.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ebdce45.css",
-    "static/js/main.7823c831.js"
+    "static/js/main.1fac89dc.js"
   ]
 }
