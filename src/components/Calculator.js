@@ -18,8 +18,9 @@ const Calculator = () => {
   };
 
   return (
-    <>
-      <div className="container">
+    <div className="container">
+      <p className="description">Let&apos;s do some math!</p>
+      <div className="calc-container">
         <div className="screen">
           { properties.total}
           { properties.operation }
@@ -45,7 +46,7 @@ const Calculator = () => {
         <button type="button" onClick={handleClick} className="btn">.</button>
         <button type="button" onClick={handleClick} className="btn orange">=</button>
       </div>
-    </>
+    </div>
   );
 };
 
