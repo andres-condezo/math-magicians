@@ -73,7 +73,6 @@
 /* Medium Devices, Desktops */
 
 @media (min-width: 992px) {
-
   .container {
     width: 100%;
     flex-direction: row;

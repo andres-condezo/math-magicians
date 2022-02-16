@@ -17,7 +17,7 @@ ul {
   font-weight: bold;
 }
 
-ul li a{
+ul li a {
   text-decoration: none;
   color: #ddd;
   outline: none;
@@ -32,7 +32,7 @@ ul li:not(:first-child)::before {
 
 .logo {
   text-decoration: none;
-  color: orange!important;
+  color: orange !important;
   text-align: center;
   display: flex;
 }
