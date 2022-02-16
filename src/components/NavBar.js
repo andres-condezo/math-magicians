@@ -24,7 +24,7 @@ function NavBar() {
         <li>
           <NavLink
             className={({ isActive }) => (isActive ? 'active' : '')}
-            to="/math-magicians/Calculator"
+            to="/Calculator"
           >
             Calculator
           </NavLink>
@@ -32,7 +32,7 @@ function NavBar() {
         <li>
           <NavLink
             className={({ isActive }) => (isActive ? 'active' : '')}
-            to="/math-magicians/Quote"
+            to="/Quote"
           >
             Quote
           </NavLink>

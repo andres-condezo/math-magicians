@@ -25,15 +25,15 @@ class App extends Component {
           <section className="content">
             <Routes>
               <Route
-                path="/math-magicians/"
+                path="/math-magicians"
                 element={<Home />}
               />
               <Route
-                path="/math-magicians/Calculator"
+                path="/Calculator"
                 element={<Calculator className="calculator" />}
               />
               <Route
-                path="/math-magicians/Quote"
+                path="/Quote"
                 element={<Quote />}
               />
             </Routes>
