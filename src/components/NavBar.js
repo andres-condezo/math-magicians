@@ -16,7 +16,7 @@ function NavBar() {
         <li>
           <NavLink
             className={({ isActive }) => (isActive ? 'active' : '')}
-            to="/math-magicians"
+            to="/"
           >
             Home
           </NavLink>
