@@ -5,7 +5,7 @@ function Home() {
 
   return (
     <section className="Home">
-      <h1>Welcome to our Page!</h1>
+      <h1>Welcome to Math Magicians app!</h1>
       <p>{par}</p>
       <p>{par}</p>
     </section>

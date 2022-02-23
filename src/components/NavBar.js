@@ -7,7 +7,7 @@ function NavBar() {
       <div>
         <NavLink
           className="logo"
-          to="/math-magicians"
+          to="/"
         >
           Math Magicians
         </NavLink>
